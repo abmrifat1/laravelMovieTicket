@@ -1,6 +1,12 @@
 <p>This is a online movie,sports,concert ticket buying web application that written in laravel.
 </p>
-<p>Live project: </p><a href=" http://seemyshow.live/"></a>
+<p>Live project: 
+<a href=" http://seemyshow.live/"></a>
+  </p>
+  </hr>
+  <br/>
+  <br/>
+  <br/>
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
