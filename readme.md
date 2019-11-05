@@ -1,7 +1,7 @@
 <p>This is a online movie,sports,concert ticket buying web application that written in laravel.
 </p>
 <p>Live project: 
-<a href=" http://seemyshow.live/"></a>
+<a href=" http://seemyshow.live/">SeeMyShow</a>
   </p>
   </hr>
   <br/>
