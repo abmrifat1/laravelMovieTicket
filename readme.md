@@ -1,9 +1,9 @@
-<p>This is a online movie,sports,concert ticket buying web application that written in laravel.
-</p>
-<p>Live project:  http://seemyshow.live/ </p>
-<a href=" http://seemyshow.live/">SeeMyShow</a>
+<h1>This is a online movie,sports,concert ticket buying web application that written in laravel.
+</h1>
+<h2>Live project:  http://seemyshow.live/ </h2>
+
  
-  </hr>
+  <hr>
   <br/>
   <br/>
   <br/>
