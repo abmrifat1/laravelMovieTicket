@@ -1,6 +1,6 @@
 <h1>This is a online movie,sports,concert ticket buying web application that written in laravel.
 </h1>
-<h2>Live project:  http://seemyshow.live/ </h2>
+<a target="_blank">Live project:  http://seemyshow.live/ </a>
 
  
   <hr>
