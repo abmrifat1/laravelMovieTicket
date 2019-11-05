@@ -1,7 +1,7 @@
 <h1>This is a online movie,sports,concert ticket buying web application that written in laravel.
 </h1>
 <h4>Live website:</h4>
-<a href="http://seemyshow.live/ "><img src="http://seemyshow.live/front/images/banners/main_logo.png" alt="See My show" target="_blank">seemyshow</a>
+<a href="http://seemyshow.live/" target="_blank"><img src="http://seemyshow.live/front/images/banners/main_logo.png" alt="See My show" >seemyshow</a>
  
   <hr>
   <br/>
