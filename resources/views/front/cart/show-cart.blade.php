@@ -98,12 +98,7 @@
 
     <div class="container">
 
-
-
-
         <!-- Main content -->
-
-
         <section class="container">
 
             <div class="order-container">
