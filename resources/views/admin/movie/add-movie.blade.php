@@ -79,7 +79,7 @@
 
 
                     <div class="form-group">
-                        <label class="col-sm-3">Director/Sponsor</label>
+                        <label class="col-sm-3">Director/ Sponsor</label>
                         <div class="col-sm-9">
                             <input required type="text" name="director" class="form-control"/>
                             <span style="color: red;">{{ $errors->has('director') ? $errors->first('director') : ' ' }}</span>
@@ -87,7 +87,7 @@
                     </div>
 
                     <div class="form-group">
-                        <label class="col-sm-3">Actor/Team</label>
+                        <label class="col-sm-3">Actor/ Team</label>
                         <div class="col-sm-9">
                             <input required type="text" name="actor" class="form-control"/>
                             <span style="color: red;">{{ $errors->has('actor') ? $errors->first('actor') : ' ' }}</span>
